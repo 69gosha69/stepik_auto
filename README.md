@@ -1,3 +1,3 @@
 # stepik_auto
-Домашнее задание
-Новое
+My homework
+Stepik
